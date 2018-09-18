@@ -3,8 +3,17 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+https://raw.githubusercontent.com/nateriver1/nateriver1.github.io/master/images/nausea pro.jpg
+    
+n a u s e a
+an album by buffalo bill
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+0:00:00 cleveland
+0:04:54 boyhood
+0:10:46 failed
+0:13:45 harlequin
+0:17:52 drown
+0:21:20 trauma
+0:26:08 7780
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+LISTEN | DOWNLOAD 
